@@ -1,27 +1,24 @@
 {
-  "name": "startbootstrap-grayscale",
-  "title": "Grayscale",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/grayscale",
-  "author": "Start Bootstrap",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-  },
+  "name": "cape-town-hardware-collective",
+  "title": "The Hardware Collective",
+  "version": "0.2.0",
+  "homepage": "http://www.thehardwarecollective.com",
+  "author": "Matteo Milandri",
+  "license": "MIT",
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
+    "bootstrap": "^4.5.0",
+    "browser-sync": "^2.26.10",
+    "font-awesome": "^4.7.0",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
+    "gulp-header": "^2.0.9",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
     "jquery": ">=3.5.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+    "url": "https://github.com/MatteoMilandri/thc.git"
   }
 }

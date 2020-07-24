@@ -1,4 +1,4 @@
-# [The Hardware Collective](http://thehardwarecollective.com/)
+# [The Hardware Collective](http://www.thehardwarecollective.com/)
 
 This repository contains the website for the Cape Town hardware collective, a community interested in electronics design, embedded systems and hardware startups.
 
@@ -18,4 +18,5 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
+Copyright 2013-2017 Blackrock Digital LLC.  
+Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
